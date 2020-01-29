@@ -1,2 +1,6 @@
+# Required for Github SSO
 https://github.com/getsentry/sentry-auth-github/archive/master.zip
-google-cloud-storage==1.25
+
+# Required for Google integrations
+# from https://github.com/getsentry/sentry/blob/9.1.2/requirements-optional.txt
+google-cloud-storage>=1.13.2,<1.14
