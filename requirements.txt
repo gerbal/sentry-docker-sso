@@ -1,1 +1,2 @@
 https://github.com/getsentry/sentry-auth-github/archive/master.zip
+google-cloud-storage==1.25
